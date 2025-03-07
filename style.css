@@ -77,4 +77,12 @@ body {
     font-size: 20px;
     color: pink;
     animation: floating 5s linear infinite;
+}.card {
+    width: 400px; /* Make the card wider */
+    padding: 30px; /* Add space inside */
+    background: white;
+    border-radius: 15px; /* Rounded corners */
+    text-align: center;
+    box-shadow: 0 0 20px rgba(255, 182, 193, 0.8); /* Pink glow */
+    border: 3px solid rgba(255, 105, 180, 0.8); /* Light pink border */
 }
